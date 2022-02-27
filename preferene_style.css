@@ -1,0 +1,46 @@
+@charset "UTF-8" ;
+
+body {
+    background-color:black;
+}
+
+header {
+    border-bottom: medium solid white;
+}
+
+aside {
+    height: 100%;
+    width: 20%;
+    background-color: black;
+}
+
+.aside_button {
+    background-color: rgb(19, 19, 19);
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.aside_main {
+    display: flex;
+}
+
+main {
+    height: 100%;
+    width:80%
+}
+
+iframe {
+    height: 100%;
+    width: 100%;
+}
+
