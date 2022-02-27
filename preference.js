@@ -1,5 +1,4 @@
-var main_iframe = getElementById("key_setting_button");
-
+var main_iframe = getElementById("settings_iframe");
 
 document.getElementById("key_setting_button").onclick() = function() {
     document.main_ifarme.src = "setting_page/key_setting.html";
